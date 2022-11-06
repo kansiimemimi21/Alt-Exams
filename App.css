@@ -1,0 +1,8 @@
+.nav{
+  display: flex;
+  background: lightblue;
+  color: white;
+  background-color: aqua;
+  justify-content: space-around;
+
+}
